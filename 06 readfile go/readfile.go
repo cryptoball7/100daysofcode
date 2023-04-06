@@ -5,6 +5,8 @@ import (
 		"os"
 )
 
+// https://gobyexample.com/reading-files
+
 func check(e error) {
 	if e!= nil {
 		panic(e)
