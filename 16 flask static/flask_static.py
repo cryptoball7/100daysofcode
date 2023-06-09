@@ -1,3 +1,6 @@
+# 100DaysOfCode CryptoBallX
+# https://flask.palletsprojects.com/en/2.2.x/quickstart/
+
 from flask import Flask
 
 app = Flask(__name__)
